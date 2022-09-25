@@ -1,12 +1,10 @@
-[A6-2] (https://prezi.com/p/edit/-xdwv8fik5xk/)
+[A6-5] (https://prezi.com/p/edit/-xdwv8fik5xk/)
 
-![A6-2](https://nimbus-screenshots.s3.amazonaws.com/s/ac06ba1edf608a5b180e7068287ef8c4.png)
+## ![A6-5](https://nimbus-screenshots.s3.amazonaws.com/s/88ee12902cc3473cc330f92349e73408.png)
 
----
+## Open the "A65.hpp"
 
-## Open the "A62.hpp"
-
-> Complete two functions "nthpowerp()" and "nthpowern()"
+> ### Complete two functions "swap()" and "swaptwo()"
 
 ## You can test your program by typing the command
 
