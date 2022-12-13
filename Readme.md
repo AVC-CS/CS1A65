@@ -10,6 +10,11 @@
 
 > make test
 
+or
+
+> g++ main.cpp
+> ./a.out
+
 ### Do not change any files
 
 > if you want to restore all files, just clone again with this assignment link.
