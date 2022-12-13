@@ -12,7 +12,7 @@
 
 or
 
-> g++ main.cpp
+> g++ main.cpp <br>
 > ./a.out
 
 ### Do not change any files
